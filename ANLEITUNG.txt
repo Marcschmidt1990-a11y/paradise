@@ -1,0 +1,11 @@
+PARADISE WEBSITE – INSTALLATION
+
+1. Öffne dein GitHub-Repository Paradise-Website.
+2. Lade index.html sowie den Ordner images hoch.
+3. index.html muss direkt im Hauptverzeichnis liegen.
+4. Der Ordner images muss direkt daneben liegen.
+5. Klicke auf Commit changes.
+6. Warte kurz und öffne deine GitHub Pages Website; drücke Strg+F5.
+
+Discord: https://discord.gg/VSggAKu3J
+Standort: PLZ 9047, Los Santos – FiveM Roleplay.
